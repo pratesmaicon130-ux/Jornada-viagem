@@ -1,10 +1,10 @@
 :root{
-    --brackground-primary-color:ffffff;  /* cor de fundo */
+    --background-primary-color:ffffff;  /* cor de fundo */
     --background-secondary-color: f5f5f5; /* cor de fundo secundária */
     --background-tertiary-color: 0000; /* cor de fundo terciária */
 
-    --butoon-primary-color: #8F0101; /* cor do botão primário */
-    --butoon-secondary-color: #B81515; /* cor do botão secundário */
+    --button-primary-color: #8F0101; /* cor do botão primário */
+    --button-secondary-color: #B81515; /* cor do botão secundário */
 
     --text-primary-color: 222222; /* cor do texto primário */
     --text-secondary-color: ffffff; /* cor do texto secundário */
