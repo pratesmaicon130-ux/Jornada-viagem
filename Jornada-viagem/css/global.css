@@ -9,15 +9,15 @@
   --primary-color: #8f0101; /* cor primária */
   --secondary-color: #b81515; /* cor secundária */
 
-  --background-primary-color: ffffff; /* cor de fundo */
-  --background-secondary-color: f5f5f5; /* cor de fundo secundária */
-  --background-tertiary-color: 0000; /* cor de fundo terciária */
+  --background-primary-color: #ffffff; /* cor de fundo */
+  --background-secondary-color: #f5f5f5; /* cor de fundo secundária */
+  --background-tertiary-color: #000000; /* cor de fundo terciária */
 
   --button-primary-color: #8f0101; /* cor do botão primário */
   --button-secondary-color: #b81515; /* cor do botão secundário */
 
-  --text-primary-color: 222222; /* cor do texto primário */
-  --text-secondary-color: ffffff; /* cor do texto secundário */
+  --text-primary-color: #222222; /* cor do texto primário */
+  --text-secondary-color: #ffffff; /* cor do texto secundário */
 
   --titles-weight: 700;
   --text-weight: 400;
