@@ -3,7 +3,7 @@ header {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: flex-start;
+  align-items: center;
   padding: 38px 48px;
   position: relative;
 }
@@ -14,11 +14,11 @@ header {
   height: 64px;
 }
 
-.logo-mobile {
+.img-mobile {
   display: block;
 }
 
-.logo-desktop {
+.img-desktop {
   display: none;
 }
 
@@ -44,7 +44,7 @@ nav {
 }
 
 .list-links li {
-  margin: 16px 0;
+  margin: 0;
 }
 
 .list-links li a {
@@ -69,6 +69,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: 0;
+    gap: 32px;
   }
   .navigation-menu li {
     margin-top: 0;
