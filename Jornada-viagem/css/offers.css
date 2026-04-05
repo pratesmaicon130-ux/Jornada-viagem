@@ -5,6 +5,13 @@
   gap: 24px;
 }
 
+.categories{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+}
+
 .card {
   color: var(--text-secondary-color);
   background-color: black;
@@ -96,4 +103,3 @@
     margin: 0 auto;
   }
 }
-
