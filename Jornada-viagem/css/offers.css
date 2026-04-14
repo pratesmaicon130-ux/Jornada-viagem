@@ -69,24 +69,18 @@
   }
 }
 
+/* No offers.css */
 @media screen and (min-width: 1024px) {
-  .card {
-    width: 420px;
-    height: 308px;
-  }
-
-  .card header h3 {
-    font-size: 48px;
-  }
-
-  .card header samp {
-    font-size: 40px;
+  .offers-cards .card {
+    /* 50% da largura menos metade do gap (24px / 2 = 12px) */
+    width: calc(50% - 12px); 
+    max-width: 440px; 
   }
 }
 
 @media screen and (min-width: 1440px) {
-  .card {
-    width: 588px;
+  .offers-cards .card {
+    max-width: 588px;
   }
 }
 
